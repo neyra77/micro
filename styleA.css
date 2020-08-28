@@ -13,3 +13,8 @@ ul, ol {
 	margin-left: 1.25em;
 	padding-left: 1.25em;
 }
+
+div.week {
+	margin-top: 2.5em;
+	margin-bottom: 2.5em;
+}
