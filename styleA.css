@@ -5,6 +5,8 @@ html {
 body {
 	font: 13px Arial;
 	line-height: 1.42857143;
+	width: 50%;
+	margin: 0 auto;
 }
 
 
@@ -14,12 +16,14 @@ ol, ul {
 	padding-left: 1.25em;
 }
 
+
+/* Div Rules */
 div.task {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 }
 
-div.finished_task {
+div.finishedtask {
 	color: #A8A8A8;		
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
@@ -28,4 +32,10 @@ div.finished_task {
 div.week {
 	margin-top: 2.5em;
 	margin-bottom: 2.5em;
+}
+/* End Div Rules */
+
+
+li>a {
+	text-decoration: none;
 }
