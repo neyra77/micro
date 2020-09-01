@@ -19,6 +19,12 @@ div.task {
 	margin-bottom: 0.5em;
 }
 
+div.finished_task {
+	color: #A8A8A8;		
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 div.week {
 	margin-top: 2.5em;
 	margin-bottom: 2.5em;
