@@ -51,9 +51,13 @@ li>a {
   padding-bottom:1em;
 }
 
+.groupinfo {
+  margin-bottom: 2em;
+}
+
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
-  margin-top: 2.5em;
+  margin-top: 0.5em;
   background-color: #666;
   color: white;
   cursor: pointer;
